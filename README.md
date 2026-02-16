@@ -24,4 +24,4 @@ webscraping/
 3. Run notebook
 
 ## 📊 Output
-Data is saved as a parquet file.
+Data is saved as a csvfile.
